@@ -8,3 +8,94 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+
+.nav-list{
+display: none;
+
+}
+
+.title{
+
+}
+
+.button-box{
+    display: flex;
+    background-color: #540B51;
+
+}
+
+
+
+.slack-logo{
+width: 40%;
+
+}
+
+
+
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #540B51;
+    justify-content: space-between;
+    width: 137vw;
+}
+
+.menu-button{
+    background-color: #540B51;
+}
+
+.search-button{
+align-items: end;
+background-color: #540B51;
+}
+
+.under-title{
+    display: flex;
+    width:100%
+}
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+ }
+
+ .email-button{
+background-color: #4285F4;
+ }
+
+.sign-up-button{
+    width:100%;
+    background-color:white ;
+    
+    
+}
+
+.google-button{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    background-color: white;
+}
+
+.two-button-box{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+.google.logo{
+    width: 5%;
+}
+
+
+.div-under-title{
+    display: flex;
+    flex-direction: row;
+}
